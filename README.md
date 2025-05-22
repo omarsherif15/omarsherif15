@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hi 👋! My name is Omar Sherif and I'm a Flutter Developer from Egypt.</h2>
 
 ###
