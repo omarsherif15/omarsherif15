@@ -1,3 +1,5 @@
+<br clear="both">
+
 <h2 align="left">Hi 👋! My name is Omar Sherif and I'm a Flutter Developer from Egypt.</h2>
 
 ###
@@ -67,6 +69,9 @@
   </a>
   <a href="https://api.whatsapp.com/send?phone=201010387741" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://omarsherif15.github.io/personal_portfolio/#/about" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
 
